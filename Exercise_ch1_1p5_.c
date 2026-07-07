@@ -1,3 +1,5 @@
+/*write your own version of the hello world program */
+
 #include<stdio.h>
 
 int main(){
